@@ -1,0 +1,11 @@
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharp\Ejercicio4\Ejercicio4\bin\Debug\netcoreapp3.0\Ejercicio4.exe
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharp\Ejercicio4\Ejercicio4\bin\Debug\netcoreapp3.0\Ejercicio4.deps.json
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharp\Ejercicio4\Ejercicio4\bin\Debug\netcoreapp3.0\Ejercicio4.runtimeconfig.json
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharp\Ejercicio4\Ejercicio4\bin\Debug\netcoreapp3.0\Ejercicio4.runtimeconfig.dev.json
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharp\Ejercicio4\Ejercicio4\bin\Debug\netcoreapp3.0\Ejercicio4.dll
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharp\Ejercicio4\Ejercicio4\bin\Debug\netcoreapp3.0\Ejercicio4.pdb
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharp\Ejercicio4\Ejercicio4\obj\Debug\netcoreapp3.0\Ejercicio4.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharp\Ejercicio4\Ejercicio4\obj\Debug\netcoreapp3.0\Ejercicio4.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharp\Ejercicio4\Ejercicio4\obj\Debug\netcoreapp3.0\Ejercicio4.AssemblyInfo.cs
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharp\Ejercicio4\Ejercicio4\obj\Debug\netcoreapp3.0\Ejercicio4.dll
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharp\Ejercicio4\Ejercicio4\obj\Debug\netcoreapp3.0\Ejercicio4.pdb
