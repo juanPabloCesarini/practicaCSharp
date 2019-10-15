@@ -75,3 +75,42 @@ a)	Cantidad vendida por cada número de Producto.
 b)	Cantidad Total vendida.
 c)	Subtotal por cada Producto.
 d)	Facturación por cada número de Producto.
+
+## Ejercicios CLASE 3
+
+Ejercicio1:
+Desarrollar un programa que muestre la tabla de multiplicar de un numero ingresado por el teclado del 1 al
+15
+Ejercicio2:
+De una competencia de atletismo, intervienen N atletas clasificados según su edad:
+Entre 12 y 18 años (cadetes), entre 19 y 30 (juveniles) y mayores de 30 años (veteranos).
+De cada atleta se conoce: Apellido, edad y Tiempo.
+Informar:
+1) Promedio de Tiempos por categoría.
+2) Cantidad de participantes por categoría.
+3) Promedio de tiempo de la competencia.
+4) Calcular porcentaje de participantes por categorías.
+5) Calcular el máximo y mínimo tiempo.
+Ejercicio 3:
+Realizar un programa que permita ingresar n números enteros por el teclado y se desea conocer:
+ a) La cantidad de números positivos.
+ b) La cantidad de números negativos.
+ c) La cantidad de números pares.
+ d) La cantidad de números impares
+Ejercicio 4: Generar un programa en c Sharp, donde se ingresen valor hasta que sea cero (utilizar un ciclo
+Repetitivo DoWhile)
+Se pide sumar los valores y calcular e informar el promedio.
+Ejercicio 5: Se desea realizar un programa en C Sharp, que a través del ciclo Repetitivo DoWhile, realice las
+siguientes Operaciones:
+Las Operaciones a Realizar Son:
+1-Suma
+2-Resta
+3-Multiplicar
+4-Division
+5-Salir
+Se puede realizar una operación hasta que la opción sea distinta de 5.
+Se deberá ingresar numero1 y numero2. Las operaciones se realizarán a través de un ciclo switch. 
+En la división, el segundo número no puede ser cero, si fuese así debe aparecer un Mensaje que diga “No se
+puede Dividir por Cero”
+Informar el resultado de la operación elegida con el siguiente Mensaje “El Resultado de nro1 y nro2 es:
+resultado “usando la impresión con índices.
