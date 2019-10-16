@@ -114,3 +114,49 @@ En la división, el segundo número no puede ser cero, si fuese así debe aparec
 puede Dividir por Cero”
 Informar el resultado de la operación elegida con el siguiente Mensaje “El Resultado de nro1 y nro2 es:
 resultado “usando la impresión con índices.
+
+## Ejercicios CLASE 4
+Ejercicio 1:   
+
+Realizar un programa que pida ingresar el Año.
+
+Se deja de ingresar datos hasta que el mensaje ¿Desea ingresar otro dato(s/n)? sea igual a N o n (utilizar campos booleanos).
+
+Se pide:
+
+a)	Informar si es Año Bisiesto o Normal.
+b)	Cantidad de Años Bisiestos y Normales.
+c)	Porcentaje de Años Bisiestos y Normales.
+
+Ejercicio 2:   
+
+Realizar en C Sharp, la Codificación del siguiente Enunciado
+
+Una importante empresa de Encuestas, realizo una toma de opiniones a N personas.
+
+De cada encuestado, se ingresó: Sexo (F: Femenino, M: Masculino), Trabaja (Si/No), Estudia (Si/No) y Edad. 
+
+Se pide informar:
+
+1)	La Cantidad de personas que no trabajan y no estudian.
+2)	Porcentaje de personas que trabajan. 
+3)	Cantidad de personas que estudian y tienen más de 18 años.
+
+Ejercicio 3:   
+
+Realizar en C Sharp, la Codificación del siguiente Enunciado
+
+Un Supermercado realiza un estudio sobre sus ventas. Para ello cuenta con 3 cajas. 
+Se ingresan los siguientes datos:
+
+•	Nro. de Caja (1,2,3)
+•	Turno (M, T)
+•	Nombre Cajera
+•	Importe de la Compra.
+Los datos finalizan con nro. de Caja <> 0.   
+Se desea saber:
+
+1)	Recaudación por Caja.
+2)	Cantidad de tickets emitidos por Turno y por caja.
+3)	Recaudación Total.
+
