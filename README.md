@@ -160,3 +160,38 @@ Se desea saber:
 2)	Cantidad de tickets emitidos por Turno y por caja.
 3)	Recaudación Total.
 
+##Ejercicios CLASE 5
+
+Tema: Vectores
+
+Ejercicio 1
+Ingresar 10 edades en un vector.
+Informar:
+1) La suma de edades totales.
+2) La Edad Promedio.
+3) Las edades mayores y menores a 18 años.
+
+Ejercicio 2
+Cargar un vector con 10 números.
+Informar:
+1) La cantidad de positivos.
+2) La cantidad de negativos.
+3) La cantidad de ceros.
+4) El promedio de positivos
+5) El porcentaje de negativos y ceros
+
+Ejercicio 3
+Ingresar 10 sueldos y edades de una empresa. Informar:
+1) Sueldo promedio.
+2) Suma y edad promedio.
+3) La cantidad de empleados cuya edad se encuentra entre 23 y 40 años.
+4) Cantidad de empleados mayores a 30 años y sueldo menor a 1000 pesos.
+5) Cantidad de empleados con edad menor a la edad promedio.
+
+Ejercicio 4
+Ingresar las edades y Notas de N alumnos.
+Informar:
+1) Nota promedio.
+2) Cantidad de alumnos aplazados.
+3) Cantidad de alumnos promocionados.
+4) Cantidad de alumnos cuya nota fue diez.
